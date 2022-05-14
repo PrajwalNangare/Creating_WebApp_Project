@@ -1,0 +1,21 @@
+.container {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0px;
+    background-color: #405369;
+    color: #fff;
+  }
+  
+  .h1 {
+    padding-left: 25px;
+    text-align: left;
+  }
+  .mainlogo{
+    padding-top: 10px;
+    text-align: center;
+  }
+  .secondlogo {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
