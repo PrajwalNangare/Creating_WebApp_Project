@@ -1,4 +1,4 @@
-# 🌐 AI-Enabled FinTech B2B Invoice Management Application - [DEMO](https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=sharing)
+
 
 
 ---
@@ -55,15 +55,13 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 - **Java**
 - **Servlets**
 - **JDBC**
-- **JSP**
 - **MySQL**
 
 ### Tools
 
 - **Eclipse IDE**
 - **TomCat Server**
-- **Postman API Testing Tools**
-- **SQL Yog**
+- **MySQL**
 - **Jupyter Notebook**
 
 
