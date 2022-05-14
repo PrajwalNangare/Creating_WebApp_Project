@@ -47,8 +47,8 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 - **HTML**
 - **CSS**
-- **JavaScript**
-- **JQuery**
+- **ReactJS**
+- **Material-UI**
 
 ### Backend
 
