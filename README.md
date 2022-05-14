@@ -71,11 +71,11 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 
 
-<img src="assests/image1.png"/>
-<img src="assests/image2.png"/>
-<img src="assests/image3.png"/>
-<img src="assests/image4.png"/>
-<img src="assests/image5.png"/>
+<img src="https://github.com/PrajwalNangare/Creating_WebApp_Project/blob/main/Frontend/screenshot/add.png"/>
+<img src="https://github.com/PrajwalNangare/Creating_WebApp_Project/blob/main/Frontend/screenshot/edit.png"/>
+<img src="https://github.com/PrajwalNangare/Creating_WebApp_Project/blob/main/Frontend/screenshot/delete.png"/>
+<img src="https://github.com/PrajwalNangare/Creating_WebApp_Project/blob/main/Frontend/screenshot/front.png"/>
+
 
 ---
 
